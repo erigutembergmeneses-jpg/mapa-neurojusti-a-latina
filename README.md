@@ -45,7 +45,7 @@ Este mapa:
 
 ## 🔗 Acesse a versão interativa
 
-👉 [**Mapa da Justiça Neurocompatível na América Latina**](https://erigutembergmeneses-jpg.github.io/mapa-neurojustica-latina)
+👉 [**Mapa da Justiça Neurocompatível na América Latina**](https://erigutembergmeneses-jpg.github.io/mapa-neurojustica-latina/index.html)
 
 Inclui:
 - Links diretos às decisões judiciais;
