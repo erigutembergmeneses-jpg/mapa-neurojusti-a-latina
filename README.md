@@ -14,7 +14,7 @@ O **manjericão** — planta que **não pune, mas renasce; que não aprisiona, m
 - **[Livro completo (HTML)](https://erigutembergmeneses-jpg.github.io/portal-da-cidade/)**  
   Versão digital integral do romance-ensaio.
   
-- **[Mapa da Justiça Neurocompatível na América Latina](https://erigutembergmeneses-jpg.github.io/mapa-neurojustica-latina)**  
+- **[Mapa da Justiça Neurocompatível na América Latina](https://erigutembergmeneses-jpg.github.io/mapa-neurojusti-a-latina)**  
   Casos reais, centros de pesquisa e decisões jurídicas sobre neurodireito no Brasil, Argentina, Colômbia e Corte Interamericana.
 
 - **Protocolo de Escuta Ativa para Operadores do Direito**  
