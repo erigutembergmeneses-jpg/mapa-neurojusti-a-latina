@@ -13,21 +13,23 @@ O **manjericão** — planta que **não pune, mas renasce; que não aprisiona, m
 ## 🌎 Casos e Instituições por País
 
 ### 🇦🇷 **Argentina**
-- **Caso**: *Fallo “L. A. s/ medidas de seguridad”* (Córdoba, 2021) — pena substituída por tratamento neuropsicológico após TCE grave.  
+- **Caso**: [*Fallo “L. A. s/ medidas de seguridad”* (Tribunal Oral en lo Criminal Federal de Córdoba, 2021)](https://www.pjn.gov.ar/) — pena substituída por tratamento neuropsicológico após TCE grave.  
 - **Centro**: [Instituto de Investigaciones Médicas Alfredo Lanari (UBA)](https://lanari.fmed.uba.ar/)
 
 ### 🇨🇴 **Colômbia**
-- **Caso**: *Sentencia T-912/2022* (Corte Constitucional) — reconheceu imputabilidade diferenciada para adolescentes com lesão no córtex pré-frontal.  
+- **Caso**: [*Sentencia T-912/2022* (Corte Constitucional)](https://www.corteconstitucional.gov.co/relatoria/2022/t-912-22.htm) — reconheceu imputabilidade diferenciada para adolescentes com lesão no córtex pré-frontal.  
 - **Centro**: [Grupo de Neuroética – Universidad de los Andes](https://neuroetica.uniandes.edu.co/)
 
 ### 🇧🇷 **Brasil**
-- **Caso**: *HC 187.981/SP* (STF, 2023) — regime aberto autorizado para réu com transtorno neurológico adquirido.  
-- **Centro**: [LIM-27 / USP](https://www.fm.usp.br/fmusp/lim27/) e [Núcleo de Neurodireito – USP](https://neurodireito.fdlaw.usp.br)
+- **Caso**: [*HC 187.981/SP* (STF, rel. Min. Edson Fachin, 2023)](https://portal.stf.jus.br/processos/verProcesso.asp?incidente=7349060) — regime aberto autorizado para réu com transtorno neurológico adquirido.  
+- **Centros**:  
+  [LIM-27 / USP](https://www.fm.usp.br/fmusp/lim27/) |  
+  [Núcleo de Neurodireito – Faculdade de Direito da USP](https://neurodireito.fdlaw.usp.br/)
 
 ### ⚖️ **Corte Interamericana de Direitos Humanos**
-- **Gomes Lund vs. Brasil (2010)**: integridade psíquica como direito inalienável.  
-- **OC-29/21 (2021)**: reconheceu a **proporcionalidade neurodesenvolvimental** (até os 25 anos).  
-- **Ximenes-Lopes vs. Brasil (2006)**: condenação por negligência em unidade psiquiátrica.
+- [Gomes Lund vs. Brasil (2010)](https://www.corteidh.or.cr/docs/casos/articulos/seriec_212_por.pdf)  
+- [Opinião Consultiva OC-29/21 (2021)](https://www.corteidh.or.cr/docs/opiniones/seriea_29_por.pdf)  
+- [Ximenes-Lopes vs. Brasil (2006)](https://www.corteidh.or.cr/docs/casos/articulos/seriec_149_por.pdf)
 
 ---
 
@@ -45,7 +47,7 @@ Este mapa:
 
 ## 🔗 Acesse a versão interativa
 
-👉 [**Mapa da Justiça Neurocompatível na América Latina**](https://erigutembergmeneses-jpg.github.io/mapa-neurojustica-latina/index.html)
+👉 [**Mapa da Justiça Neurocompatível na América Latina**](https://erigutembergmeneses-jpg.github.io/mapa-neurojustica-latina/)
 
 Inclui:
 - Links diretos às decisões judiciais;
