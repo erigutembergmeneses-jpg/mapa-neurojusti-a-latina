@@ -45,18 +45,6 @@ Este mapa:
 
 ---
 
-## 🔗 Acesse a versão interativa
-
-👉 [**Mapa da Justiça Neurocompatível na América Latina**](https://erigutembergmeneses-jpg.github.io/mapa-neurojustica-latina/)
-
-Inclui:
-- Links diretos às decisões judiciais;
-- Sites de centros de pesquisa;
-- Artigos científicos e vídeos explicativos;
-- Simulação cerebral interativa (Daniel Rojas).
-
----
-
 > **“Se o cérebro pode voltar… por que o Direito não pode?”**  
 > — Erigutemberg Meneses
 
